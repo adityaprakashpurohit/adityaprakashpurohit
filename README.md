@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd-year **B.Tech CSE (AI/ML)** student at **GIET University, Gunupur** (Batch 2023–2027)
+- 🎓 4th-year **B.Tech CSE (AI/ML)** student at **GIET University, Gunupur** (Batch 2023–2027)
 - 🏛️ Government Intern under **TULIP Program · Ministry of Housing & Urban Affairs, Odisha**
 - 🤖 Building hybrid ML models — **CNN · LSTM · Random Forest** for multi-disease prediction
 - 🌐 Crafting full-stack web apps with **React, Node.js, and Tailwind CSS**
