@@ -62,7 +62,7 @@
 
 ## 🚀 Featured Projects
 
-### 🚗 [ApnaCab — Full-Stack Cab Booking App](https://github.com/ap6107308/ApnaCab)
+### 🚗 [ApnaCab — Full-Stack Cab Booking App](https://github.com/adityaprakashpurohit/ApnaCab)
 > Role-based cab booking platform with admin dashboard, real-time ride management, and premium UI.
 
 **Tech:** React · Node.js · Express · Tailwind CSS · CSV-based Auth  
@@ -70,7 +70,7 @@
 
 ---
 
-### 🧠 [Multi-Disease Prediction — Hybrid ML Model](https://github.com/ap6107308/multi-disease-prediction)
+### 🧠 [Multi-Disease Prediction — Hybrid ML Model](https://github.com/adityaprakashpurohit/multi-disease-prediction)
 > Research-grade CNN-LSTM-Random Forest hybrid architecture for predicting multiple diseases.
 
 **Tech:** Python · CNN · LSTM · Random Forest · Scikit-learn · Matplotlib  
@@ -78,7 +78,7 @@
 
 ---
 
-### 🌐 [Personal Portfolio Website](https://github.com/ap6107308/portfolio)
+### 🌐 [Personal Portfolio Website](https://github.com/adityaprakashpurohit/portfolio)
 > Personal portfolio with 3D animations, smooth transitions, and responsive design.
 
 **Tech:** Vite · React · Three.js · Framer Motion · Tailwind CSS  
@@ -86,14 +86,14 @@
 
 ---
 
-### 👥 [Employee Management System](https://github.com/ap6107308/Library-Manegment-System)
+### 👥 [Employee Management System](https://github.com/adityaprakashpurohit/Library-Manegment-System)
 > Desktop application for managing employee records with full CRUD operations and login system.
 
 **Tech:** Python · Tkinter · MySQL
 
 ---
 
-### 🎬 [Movies Downloading Website](https://github.com/ap6107308/Movies-Downloading-Website)
+### 🎬 [Movies Downloading Website](https://github.com/adityaprakashpurohit/Movies-Downloading-Website)
 > Sleek and responsive movie portal UI with search, filtering, and download options.
 
 **Tech:** HTML · CSS · JavaScript
@@ -103,12 +103,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ap6107308&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap6107308&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaprakashpurohit&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprakashpurohit&layout=compact&theme=default&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ap6107308&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaprakashpurohit&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -129,7 +129,7 @@
   <a href="mailto:adityaprakashpurohit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/ap6107308" target="_blank">
+  <a href="https://github.com/adityaprakashpurohit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_iamaditya_2003_/" target="_blank">
