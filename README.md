@@ -100,19 +100,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaprakashpurohit&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprakashpurohit&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaprakashpurohit&theme=default&hide_border=true" />
-</p>
-
----
-
 ## 🏅 Certifications
 
 - 📜 NPTEL Certifications (Python, ML, Data Analytics)
