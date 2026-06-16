@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aman+Kumar+Sahu;AI%2FML+Engineer+%7C+Python+Developer;Building+ML+Models+%26+Full-Stack+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aditya+Prakash+Purohit;AI%2FML+Engineer+%7C+Python+Developer;Building+ML+Models+%26+Full-Stack+Apps" alt="Typing SVG" />
 
 <h1 align="center">Hi, I'm Aditya Prakash Purohit </h1>
 
