@@ -1,135 +1,151 @@
-<h1 align="center">Hi, I'm Aditya Prakash Purohit </h1>
+<h1 align="center">Hi, I'm Aditya Prakash Purohit 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer in Training · Frontend Developer · Open Source Enthusiast</b>
+  <b>B.Tech CSE (AI/ML) @ GIET University · Frontend Developer · TULIP Government Intern</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Odisha%2C%20India-1D9E75?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI/ML)-GIET%20University-7F77DD?style=flat-square&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TULIP%20Intern-Govt.%20of%20Odisha-EF9F27?style=flat-square&logo=building&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-F0997B?style=flat-square" />
+  <a href="mailto:adityaprakashpurohit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/adityaprakashpurohit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://aditya-prakash-purohit.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-- 🎓 4th-year **B.Tech CSE (AI/ML)** student at **GIET University, Gunupur** (Batch 2023–2027)
-- 🏛️ Government Intern under **TULIP Program · Ministry of Housing & Urban Affairs, Odisha**
-- 🤖 Building hybrid ML models — **CNN · LSTM · Random Forest** for multi-disease prediction
-- 🌐 Crafting full-stack web apps with **React, Node.js, and Tailwind CSS**
-- 📊 Passionate about **Data Analytics · UI/UX Design · Python scripting**
-- 🏆 Active member of **Code Quest** & **Tech'Hub Club** at GIET University
-- 📫 Reach me at **adityaprakashpurohit@gmail.com**
+- 🎓 **B.Tech CSE (AI/ML)** student at GIET University, Gunupur, Odisha (2023 – 2027)
+- 🏛️ **TULIP Government Intern** under the Ministry of Housing & Urban Affairs, Govt. of Odisha
+- 🚀 Building **ApnaCab** — a full-stack cab booking platform live on the Berhampur–Bhubaneswar route
+- 🤖 Developed a **hybrid CNN-LSTM-Random Forest** model for multi-disease prediction (94%+ accuracy)
+- 🎨 **Presentation Specialist & Graphics Designer** at Code Quest Club, GIET University
+- 💬 Languages: **English, Hindi, Odia**
+- 📫 Reach me at **adityaprakashpurohit@gmail.com** | 📞 +91 7683894404
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
 
-### AI/ML
+**AI / ML**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### Tools
+**Tools & Design**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinity-designer&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚗 [ApnaCab — Full-Stack Cab Booking App](https://github.com/adityaprakashpurohit/ApnaCab)
-> Role-based cab booking platform with admin dashboard, real-time ride management, and premium UI.
+### 🚖 [ApnaCab — Full-Stack Cab Booking Platform](https://apnacab.base44.app)
+> React · Node.js · Express.js · Tailwind CSS · CSV Auth
 
-**Tech:** React · Node.js · Express · Tailwind CSS · CSV-based Auth  
-**Features:** Role-based login (User/Admin) · Ride booking & history · Admin controls · Responsive UI
-
----
-
-### 🧠 [Multi-Disease Prediction — Hybrid ML Model](https://github.com/adityaprakashpurohit/multi-disease-prediction)
-> Research-grade CNN-LSTM-Random Forest hybrid architecture for predicting multiple diseases.
-
-**Tech:** Python · CNN · LSTM · Random Forest · Scikit-learn · Matplotlib  
-**Features:** Hybrid model architecture · IEEE-formatted research paper · Visualizations & metrics
+A production-grade cab booking platform live on the **Berhampur–Bhubaneswar** route.
+- Role-based dashboards for Users and Admins with ride approval & booking status tracking
+- Node.js/Express backend with session-based CSV authentication and premium responsive UI
 
 ---
 
-### 🌐 [Personal Portfolio Website](https://github.com/adityaprakashpurohit/portfolio)
-> Personal portfolio with 3D animations, smooth transitions, and responsive design.
+### 🌐 [Personal Portfolio Website](https://aditya-prakash-purohit.vercel.app)
+> React · Vite · Three.js · Framer Motion · Tailwind CSS
 
-**Tech:** Vite · React · Three.js · Framer Motion · Tailwind CSS  
-**Deployed on:** Vercel
-
----
-
-### 👥 [Employee Management System](https://github.com/adityaprakashpurohit/Library-Manegment-System)
-> Desktop application for managing employee records with full CRUD operations and login system.
-
-**Tech:** Python · Tkinter · MySQL
+- 3D WebGL animations via Three.js and smooth page transitions with Framer Motion
+- Mobile-first responsive design deployed on Vercel
 
 ---
 
-### 🎬 [Movies Downloading Website](https://github.com/adityaprakashpurohit/Movies-Downloading-Website)
-> Sleek and responsive movie portal UI with search, filtering, and download options.
+### 🏦 Bank Management System
+> Python · MySQL
 
-**Tech:** HTML · CSS · JavaScript
-
----
-
-## 🏅 Certifications
-
-- 📜 NPTEL Certifications (Python, ML, Data Analytics)
-- 🥇 HackerRank — Python (Problem Solving)
+- Full-featured banking CLI with account creation, deposits/withdrawals, real-time balance updates
+- Normalized 3-table MySQL schema for persistent transaction logs
 
 ---
 
-## 🤝 Connect with Me
+### 👥 Employee Management System
+> Python · Tkinter · MySQL · ReportLab
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/adityaprakashpurohit" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:adityaprakashpurohit@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/adityaprakashpurohit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_iamaditya_2003_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
+- Desktop GUI managing 50+ employee records with automated salary calculations (tax + PF)
+- SQL-powered filtering and PDF report generation via ReportLab
+
+---
+
+### 📚 Library Management System
+> Python · MySQL · Matplotlib
+
+- CLI bookshop tool with inventory tracking, automated book ID generation, receipt printing
+- Monthly sales bar charts via Matplotlib
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Period |
+|------|-------------|--------|
+| 🏛️ **Government Intern (TULIP Program)** | Ministry of Housing & Urban Affairs, Govt. of Odisha | 2026 |
+| 🎨 **Presentation Specialist & Graphics Designer** | Code Quest Club, GIET University | 2025 – Present |
+| 💻 **Technical Member** | Tech'Hub Club, GIET University | 2024 – 2025 |
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 📜 **NPTEL** – Data Analytics with Python *(IIT, Jan–Apr 2024)*
+- 📜 **NPTEL** – The Joy of Computing Using Python *(IIT, Jan–Apr 2025)*
+- 📜 **NPTEL** – Introduction to Industry 4.0 & Industrial IoT *(IIT, Jun–Oct 2025)*
+- 🥇 **Gold Badge** – Python on HackerRank
+- ⭐⭐ **2-Star Rating** on CodeChef
+- 🥇 **Gold Badge** – 30 Days of Google Cloud Program
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaprakashpurohit&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprakashpurohit&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaprakashpurohit&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ap6107308&color=1D9E75&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+  <i>"Building things that matter — one commit at a time."</i>
 </p>
