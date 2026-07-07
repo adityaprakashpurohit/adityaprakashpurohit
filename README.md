@@ -77,7 +77,7 @@
 
 ## 🚀 Projects
 
-### 🚖 [ApnaCab — Full-Stack Cab Booking Platform](https://github.com/adityaprakashpurohit/ApnaCab)
+### 🚖 [ApnaCab — Full-Stack Cab Booking Platform](https://apnacab.base44.app)
 > React · Node.js · Express.js · Tailwind CSS · CSV-based Auth
 
 Role-based cab booking platform **live** on the Berhampur–Bhubaneswar route with admin dashboard, real-time ride management, and a premium responsive UI.
@@ -86,7 +86,7 @@ Role-based cab booking platform **live** on the Berhampur–Bhubaneswar route wi
 
 ---
 
-### 🌐 [Personal Portfolio Website](https://github.com/adityaprakashpurohit/portfolio)
+### 🌐 [Personal Portfolio Website](https://[github.com/adityaprakashpurohit/portfolio](https://aditya-prakash-purohit.vercel.app/))
 > Vite · React · Three.js · Framer Motion · Tailwind CSS
 
 Personal portfolio with 3D WebGL animations, smooth page transitions, and mobile-first responsive design — deployed on Vercel.
