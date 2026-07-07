@@ -86,7 +86,7 @@ Role-based cab booking platform **live** on the Berhampur–Bhubaneswar route wi
 
 ---
 
-### 🌐 [Personal Portfolio Website](https://[github.com/adityaprakashpurohit/portfolio](https://aditya-prakash-purohit.vercel.app/))
+### 🌐 [Personal Portfolio Website](https://aditya-prakash-purohit.vercel.app/)
 > Vite · React · Three.js · Framer Motion · Tailwind CSS
 
 Personal portfolio with 3D WebGL animations, smooth page transitions, and mobile-first responsive design — deployed on Vercel.
