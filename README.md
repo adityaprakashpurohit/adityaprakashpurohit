@@ -135,12 +135,6 @@ A pure-CSS animated glowing button component.
 
 ---
 
-## 📄 Publications
-
-- **"Hybrid CNN-LSTM-Random Forest Approach for Multi-Disease Prediction"** — IEEE-format research paper (20+ pages) covering model architecture, methodology, and comparative results achieving 94%+ accuracy.
-
----
-
 ## 💼 Experience
 
 | Role | Organization | Period |
