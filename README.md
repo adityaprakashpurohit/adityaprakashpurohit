@@ -6,8 +6,13 @@
 
 <p align="center">
   <a href="mailto:adityaprakashpurohit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/adityaprakashpurohit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aditya-prakash-purohit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://aditya-prakash-purohit.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_iamaditya_2003_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityaprakashpurohit&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
@@ -15,10 +20,11 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **B.Tech CSE (AI/ML)** student at GIET University, Gunupur, Odisha (2023 – 2027)
-- 🏛️ **TULIP Government Intern** under the Ministry of Housing & Urban Affairs, Govt. of Odisha
+- 🏛️ **TULIP Government Intern** under the Ministry of Housing & Urban Affairs, Govt. of Odisha (Dept. of IT, Housing & Urban Development)
 - 🚀 Building **ApnaCab** — a full-stack cab booking platform live on the Berhampur–Bhubaneswar route
-- 🤖 Developed a **hybrid CNN-LSTM-Random Forest** model for multi-disease prediction (94%+ accuracy)
+- 🤖 Developed a **hybrid CNN-LSTM-Random Forest** model for multi-disease prediction (94%+ accuracy), written up as an IEEE-format research paper
 - 🎨 **Presentation Specialist & Graphics Designer** at Code Quest Club, GIET University
+- 💻 **Technical Member** at Tech'Hub Club, GIET University
 - 💬 Languages: **English, Hindi, Odia**
 - 📫 Reach me at **adityaprakashpurohit@gmail.com** | 📞 +91 7683894404
 
@@ -69,46 +75,69 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🚖 [ApnaCab — Full-Stack Cab Booking Platform](https://apnacab.base44.app)
-> React · Node.js · Express.js · Tailwind CSS · CSV Auth
+### 🚖 [ApnaCab — Full-Stack Cab Booking Platform](https://github.com/adityaprakashpurohit/ApnaCab)
+> React · Node.js · Express.js · Tailwind CSS · CSV-based Auth
 
-A production-grade cab booking platform live on the **Berhampur–Bhubaneswar** route.
-- Role-based dashboards for Users and Admins with ride approval & booking status tracking
-- Node.js/Express backend with session-based CSV authentication and premium responsive UI
-
----
-
-### 🌐 [Personal Portfolio Website](https://aditya-prakash-purohit.vercel.app)
-> React · Vite · Three.js · Framer Motion · Tailwind CSS
-
-- 3D WebGL animations via Three.js and smooth page transitions with Framer Motion
-- Mobile-first responsive design deployed on Vercel
+Role-based cab booking platform **live** on the Berhampur–Bhubaneswar route with admin dashboard, real-time ride management, and a premium responsive UI.
+- Role-based login for Users and Admins
+- Ride booking, history, and admin approval controls
 
 ---
 
-### 🏦 Bank Management System
+### 🌐 [Personal Portfolio Website](https://github.com/adityaprakashpurohit/portfolio)
+> Vite · React · Three.js · Framer Motion · Tailwind CSS
+
+Personal portfolio with 3D WebGL animations, smooth page transitions, and mobile-first responsive design — deployed on Vercel.
+
+---
+
+### 📚 [Library Management System](https://github.com/adityaprakashpurohit/Library-Manegment-System)
+> Python · Tkinter · MySQL
+
+Desktop application managing book inventory, book ID generation, and receipt printing with a full CRUD interface and login system.
+
+---
+
+### 🏦 [Bank Management System](https://github.com/adityaprakashpurohit/Bank-Management-System)
 > Python · MySQL
 
-- Full-featured banking CLI with account creation, deposits/withdrawals, real-time balance updates
-- Normalized 3-table MySQL schema for persistent transaction logs
+Banking CLI with account creation, deposits/withdrawals, and real-time balance updates backed by a normalized MySQL schema.
 
 ---
 
-### 👥 Employee Management System
-> Python · Tkinter · MySQL · ReportLab
+### 🎬 [Movies Downloading Website](https://github.com/adityaprakashpurohit/Movies-Downloading-Website)
+> HTML · CSS · JavaScript
 
-- Desktop GUI managing 50+ employee records with automated salary calculations (tax + PF)
-- SQL-powered filtering and PDF report generation via ReportLab
+Responsive movie portal UI demo with search, filtering, and a modern browsing experience.
 
 ---
 
-### 📚 Library Management System
-> Python · MySQL · Matplotlib
+### 🔳 [QR Code Generator](https://github.com/adityaprakashpurohit/QR-Code-Generator-using-HTML-CSS-JS)
+> JavaScript · HTML · CSS
 
-- CLI bookshop tool with inventory tracking, automated book ID generation, receipt printing
-- Monthly sales bar charts via Matplotlib
+Client-side QR code generator using vanilla JS and the qrcode.js library, with PNG download support for generated codes.
+
+---
+
+### 🔐 [Login / Signup / Forgot Password UI](https://github.com/adityaprakashpurohit/full-login-signup-forgot-page-design)
+> HTML · CSS
+
+Minimalist three-page authentication UI (Login, Signup, Forgot Password) with a clean teal/green design system.
+
+---
+
+### ✨ [Glowing Button Component](https://github.com/adityaprakashpurohit/Glowing-New-Button)
+> CSS
+
+A pure-CSS animated glowing button component.
+
+---
+
+## 📄 Publications
+
+- **"Hybrid CNN-LSTM-Random Forest Approach for Multi-Disease Prediction"** — IEEE-format research paper (20+ pages) covering model architecture, methodology, and comparative results achieving 94%+ accuracy.
 
 ---
 
@@ -124,9 +153,28 @@ A production-grade cab booking platform live on the **Berhampur–Bhubaneswar** 
 
 ## 🏆 Certifications & Achievements
 
-- 📜 **NPTEL** – Data Analytics with Python *(IIT, Jan–Apr 2024)*
+- 📜 **NPTEL Elite** – Data Analytics with Python *(IIT, Jan–Apr 2024)*
 - 📜 **NPTEL** – The Joy of Computing Using Python *(IIT, Jan–Apr 2025)*
 - 📜 **NPTEL** – Introduction to Industry 4.0 & Industrial IoT *(IIT, Jun–Oct 2025)*
 - 🥇 **Gold Badge** – Python on HackerRank
 - ⭐⭐ **2-Star Rating** on CodeChef
 - 🥇 **Gold Badge** – 30 Days of Google Cloud Program
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaprakashpurohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaprakashpurohit&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprakashpurohit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by — let's connect and build something great! 🚀</i>
+</p>
