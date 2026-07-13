@@ -11,10 +11,6 @@
   <a href="https://www.instagram.com/_iamaditya_2003_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityaprakashpurohit&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile views"/>
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
